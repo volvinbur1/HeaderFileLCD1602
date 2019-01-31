@@ -29,3 +29,7 @@ There are such fuction as: LCD_Initialization(void), LCD_command(unsigned char),
    
 -LCD_visibleCursor(short)
     this function turn the cursor on/off (the funtion get the state as an argument(0 - cursor is off, 1 - cursor in on))
+    
+The usage example is attached(UsingLCD folder)
+
+LCD1602-A datasheet     https://cdn-shop.adafruit.com/datasheets/TC1602A-01T.pdf
