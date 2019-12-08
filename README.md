@@ -2,7 +2,7 @@
 This header file with different function for LCD1602A using AVR ATmega328P
 
 
-Using this set of fuctons you can simplify the procces of creating new projects with LCD screens. This header file was developed in Embedded C for AVR MCU`s(this one was developed on AVR ATmega328P).
+Using this set of fuctons you can simplify the procces of creating new projects with LCD screens. This header file was developed in Embedded C for AVR MCU\`s(this one was developed on AVR ATmega328P).
 Current version use 4-bit mode for data transfer.
 File use DDRD register as an output and PORTD for comunication with LCD screen(PD7-PD4 data pins, PD3 - enable pin, PD2 - Register Select(RS) pin) by default.
 
